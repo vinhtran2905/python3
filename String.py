@@ -35,3 +35,6 @@ print(full)
 
 print(firstName * 5)
 
+
+print(''' this will print multiplines
+as the format you typed''')
