@@ -23,3 +23,15 @@ print(str3)
 print('C:\Windows\my document\newfolder')
 
 print('C:\Windows\my document\\newfolder')
+
+print(r'C:\Windows\my document\newfolder')
+
+firstName = "Bucky"
+
+full = firstName + " Rober"
+
+print(full)
+
+
+print(firstName * 5)
+
