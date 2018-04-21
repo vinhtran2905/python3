@@ -5,5 +5,5 @@ def download_web_image(url):
     full_name = str(name) + ".jpg"
     urllib.request.urlretrieve(url,full_name)
 
-
+print('successfully')
 download_web_image("https://image.thanhnien.vn/1600/uploaded/thanhchau/2018_04_21/john-0064_ojmh.jpg")
