@@ -15,4 +15,4 @@ buttcrack = 5
 while buttcrack < 10:
     print(buttcrack)
     #buttcrack = buttcrack + 1
-    buttcrack += 1
+    buttcrack += 2
