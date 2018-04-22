@@ -38,3 +38,20 @@ print(firstName * 5)
 
 print(''' this will print multiplines
 as the format you typed''')
+
+
+greeting = 'Hello'
+name = 'Vinh'
+message = '{}, {}.Welcome to python world'.format(greeting,name.upper())
+print(message)
+
+#fstring
+message = f'{greeting}, {name.upper()}. Welcome to python world'
+print(message)
+
+# method of string
+print(dir(message))
+
+print(help(str))
+
+print(help(str.lower))
