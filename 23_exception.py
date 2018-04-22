@@ -12,7 +12,7 @@ while True:
         break
         # no matter option, execute a specfic code using finally
     finally:
-        print('loop completes')
+        print('loop complete')
 
 
 
